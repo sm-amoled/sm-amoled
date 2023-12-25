@@ -2,8 +2,7 @@
 - 모바일 폼팩터의 매력을 좋아해요!  ![Static Badge](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> 
 - 글이든 코드든 회의록이든 구조화에 자신있어요
 - 💼라이프스타일과 🏋🏻헬스케어 분야에 관심이 있어요
-
----
+ㅤ
 ### Learn from
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-000000?style=flat-square&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Apple%20Developer%20Academy%20@%20POSTECH-000000?style=flat-square&logo=apple&logoColor=white)
