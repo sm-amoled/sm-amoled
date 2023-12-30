@@ -1,10 +1,12 @@
 ### 😙 안녕하세요 박성민입니다
-- 모바일 폼팩터의 매력을 좋아해요! 
-- 글이든 코드든 회의록이든 구조화에 자신있어요
-- 💼라이프스타일과 🏋🏻헬스케어 분야에 관심이 있어요
+- 사용자에게 **[유효한 가치]** 를 전달하기 위해 끊임없이 고민하는 것을 좋아해요!
+- 스마트폰, 스마트워치 등의 **[모바일 폼팩터]** 에 매력을 느끼고, 공부하고 있어요.
+- 글과 코드, 회의록 작성과 질문, 설명까지 분야를 막론하고  **[구조화]** 에 자신있어요.
+- 일상과 가까운 💼 라이프스타일과 🏋🏻 헬스케어 도메인에 관심이 있어요.
 
 ### 🛠️ Using
-![Static Badge](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> ㅤ
+- iOS ㅤㅤㅤ:  ![Static Badge](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) 
+- Android : <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> ㅤ
 
 ### 🎓 Learn from
 ![C](https://img.shields.io/badge/Chung--Ang%20Univ.-000000?style=flat-square&logo=c&logoColor=white)
